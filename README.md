@@ -3,7 +3,7 @@ As the name suggests, this mod adds drogue chutes to the game.
 
 ## Important
 
-  In order to be able to use these parts, you need to be on new Parts Loader beta (password to it is available at game's official Discord server.
+  In order to be able to use these parts, you need to be on new Parts Loader beta (password to it is available at game's official Discord server).
   Also, as this pack is Steam-exclusive, it won't work on mobile (Mac version might work, but it's untested for a moment).
   
 ## About the mod
