@@ -16,4 +16,5 @@ As the name suggests, this mod adds drogue chutes to the game.
   
   From Releases section, download the `n2o4's drogue chutes` file. Then move that file to your game directory (usually `C:\Program Files (x86)\Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Spaceflight Simulator_Data\Custom Assets\Parts`). Launch the game, get into Build scene, and you should see new category appear (currently trying to move it between Engines and Aerodynamics, but I have no idea on how to do that, so it's first for a moment). 
 
-  ![image](https://user-images.githubusercontent.com/97482716/176968223-07eed374-a347-42f8-b80e-1af4251672a6.png)
+![image](https://user-images.githubusercontent.com/97482716/176997543-737d37fe-9bb3-4b83-8e5a-165c22732c05.png)
+
